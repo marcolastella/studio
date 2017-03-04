@@ -10,6 +10,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -509,6 +512,18 @@ h6,
 #features6-6 H4 {
   font-family: 'Raleway', sans-serif;
 }
+#header1-d .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#header1-d .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+}
+#header1-d .mbr-section-lead SPAN {
+  font-size: 20px;
+}
+#header1-d .btn {
+  font-family: 'Raleway', sans-serif;
+}
 
 
 #ext_menu-9 .hide-buttons .nav-btn {
@@ -579,8 +594,14 @@ h6,
 #msg-box8-a .mbr-section-title {
   font-family: 'Raleway', sans-serif;
 }
+#msg-box5-l P {
+  font-size: 21px;
+}
 #testimonials1-b .card-footer > div {
   color: #ffffff;
+}
+#testimonials1-b .mbr-section-subtitle {
+  color: #28324e;
 }
 #social-buttons4-c .mbr-section-title,
 #social-buttons4-c .btn-social {
